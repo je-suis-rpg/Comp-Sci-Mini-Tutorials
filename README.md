@@ -12,7 +12,9 @@ proper context. Please keep this in mind whilst reading the code.
 Most of the students reading these files have only experience of python and/or (a third parties) pseudocode so the practices of explicitly declaring types 
 (and even considering them at all) and working with pointers will be new to them. 
 
-For some, this will be the first time that they will have seen classes and objects etc programmed in this fine a detail.  
+For some, this will also be the first time that they will have seen classes and objects etc programmed in this fine a detail. 
+
+In addition, concepts specific to C++ are explored also. For example, function overloading, virtual functions, STL etc. 
 
 
 
