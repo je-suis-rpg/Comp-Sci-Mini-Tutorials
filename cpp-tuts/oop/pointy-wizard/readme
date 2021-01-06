@@ -1,0 +1,16 @@
+README
+======
+
+This folder contains a class implementation of the 
+same wizard who is now choosy about who gets access
+to his privates.
+
+
+We declare the same 
+wizard object - but this time we are using 
+pointers and references instead of dot member 
+notation and everything else. 
+
+ie. 
+
+wiz0->setGetArmour  

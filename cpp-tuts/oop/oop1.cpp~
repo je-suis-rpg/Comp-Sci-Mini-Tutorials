@@ -1,0 +1,9 @@
+// oop1.cpp
+
+// File to experiment with some OOP concepts
+
+// Using the book C++ for games programming
+
+#include <iostream>
+#include <cmath>
+

@@ -1,0 +1,9 @@
+README
+======
+
+First Attempt at properly seperating out 
+header files for the class and the implementation itself also
+
+To compile you invoke:
+
+g++  main.cpp  header-implementation-file.cpp  

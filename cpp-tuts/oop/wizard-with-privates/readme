@@ -1,0 +1,11 @@
+README
+======
+
+In this folder I changed the data members of the 
+wizard class (the only class that it is actaully 
+defined in this folder, actually) to private. 
+
+This was to observe the effects during compilation. 
+
+Sure enough, the compiler throws an error stating that the 
+data members are indeed private. 

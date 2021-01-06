@@ -1,0 +1,12 @@
+// Wiz.h (Wizard Header File)
+
+#ifndef WIZARD_H
+#define WIZARD_H
+
+#include <iostream>
+#include <string>
+
+class Wizard
+{
+ public:
+  

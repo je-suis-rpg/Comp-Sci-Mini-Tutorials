@@ -1,0 +1,26 @@
+README
+======
+
+In this folder I changed the data members of the 
+wizard class (the only class that it is actaully 
+defined in this folder, actually) to private. 
+
+This was to observe the effects during compilation. 
+
+Before the compiler through up an error, now the code 
+can access the private members of the object because
+we will have implemented a SAFER class interface with
+functions that we have implemented that is 'our' 
+defined route of being able to change (and read) whatever
+is in that member at that time. 
+
+eg. 
+
+Wizard::setArmor(10);
+
+rather than,
+
+wiz0.mArmour = 10;  
+
+This now works and with the right amount of object reuse too!
+
