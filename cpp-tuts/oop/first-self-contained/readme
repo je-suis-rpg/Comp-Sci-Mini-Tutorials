@@ -1,8 +1,12 @@
-README
+#README
 ======
 
-First Attempt at properly seperating out 
-header files for the class and the implementation itself also
+This folder serves to demonstrate the benefits of seperating your concerns. 
+
+Header files contain declarations.
+Header.cpp files contains the definations 
+
+Main.cpp is the client file that makes use of the objects that you have created. 
 
 To compile you invoke:
 
