@@ -22,7 +22,7 @@ in other folders.
 
 **Can I contribrute?**
 
-Yes, however, I am not looking for contributions at this stage to the repo itself, but if you see any glaring mistakes in terminology; argument vs parameter, 
+Yes, however, I am not looking for additions to the repo itself, but if you see any glaring mistakes in terminology; argument vs parameter, 
 define vs declare, for example, please do let me know. The devil is deffo in the detail! Also, I am willing to hear from anyone who might know which license might be acceptable - if any. (See below). 
 
 **Licensing**
