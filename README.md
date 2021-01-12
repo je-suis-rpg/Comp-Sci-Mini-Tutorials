@@ -3,8 +3,8 @@
 **What is this?**
 
 Prelim is a simple collection of heavily commented C/C++ tutorial files that I use in my computer science teaching. 
-I run an online tuition business (RPG Tuition) where I teach Music, Mathematics and Computer Science, and these files 
-serve both as an introduction to C/C++ and repositories where you can upload and maintain code.  
+These files serve both as an introduction to C/C++ and repositories where you can upload and maintain code. I have tried to keep these as simple as possible, so
+issues surrounding C++11 vs C++17 (or whatever) are not discussed. 
 
 **How is the project organised?**
 
@@ -18,7 +18,7 @@ in other folders.
 2) Compile 
 3) Run 
 
-TODO: Instructions for different platforms
+
 
 **Can I contribrute?**
 
