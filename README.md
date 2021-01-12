@@ -1,4 +1,4 @@
-# RPG Tution C/C++ Tutorial Files
+# RPG Tuition C/C++ Tutorial Files
 
 **What is this?**
 
