@@ -54,7 +54,10 @@ RenderWeirdGradient(sdl_offscreen_buffer Buffer, int BlueOffset, int GreenOffset
         for(int X = 0; 
             X < Buffer.Width;
             ++X)
-        {
+            
+        {   // Create 8 bit values that we are going to pack into
+            // the 32-bit word. XX XX XX XX etc. 
+            
             uint8 Blue = (X + BlueOffset);
             uint8 Green = (Y + GreenOffset);
             
